@@ -31,5 +31,5 @@ It provides tools for **Deep Learning–based segmentation**, **spectral analysi
 
 ## 🎥 Demo Video
 🎬 Watch the tool in action:  
-👉 [**Click here to view demo video**]()
+👉 [**Click here to view demo video**](https://github.com/sejalsahu01/Hyperspectral-Image-Analysis-Tool-App/blob/main/video.mp4)
 
